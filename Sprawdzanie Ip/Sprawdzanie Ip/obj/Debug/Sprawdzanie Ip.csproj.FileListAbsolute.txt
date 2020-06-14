@@ -1,0 +1,10 @@
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\bin\Debug\Sprawdzanie Ip.exe.config
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\bin\Debug\Sprawdzanie Ip.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\bin\Debug\Sprawdzanie Ip.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\obj\Debug\Sprawdzanie Ip.csprojAssemblyReference.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\obj\Debug\Sprawdzanie_Ip.Form1.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\obj\Debug\Sprawdzanie_Ip.Properties.Resources.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\obj\Debug\Sprawdzanie Ip.csproj.GenerateResource.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\obj\Debug\Sprawdzanie Ip.csproj.CoreCompileInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\obj\Debug\Sprawdzanie Ip.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\Sprawdzanie Ip\Sprawdzanie Ip\obj\Debug\Sprawdzanie Ip.pdb

@@ -1,0 +1,10 @@
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\bin\Debug\PolaczeniaSieciowe.exe.config
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\bin\Debug\PolaczeniaSieciowe.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\bin\Debug\PolaczeniaSieciowe.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\obj\Debug\PolaczeniaSieciowe.csprojAssemblyReference.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\obj\Debug\PolaczeniaSieciowe.Form1.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\obj\Debug\PolaczeniaSieciowe.Properties.Resources.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\obj\Debug\PolaczeniaSieciowe.csproj.GenerateResource.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\obj\Debug\PolaczeniaSieciowe.csproj.CoreCompileInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\obj\Debug\PolaczeniaSieciowe.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\PolaczeniaSieciowe\PolaczeniaSieciowe\obj\Debug\PolaczeniaSieciowe.pdb
